@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 third
 second
 first
+=======
+
